@@ -1,0 +1,1 @@
+Principal aplicação - https://github.com/badtuxx/giropops-senhas
